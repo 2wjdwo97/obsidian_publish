@@ -5,7 +5,6 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Roger Obsidian Index Page! 🐍
 ---
-[[안녕하세요]]
-[[accents]]
+[[DDD Study]]
